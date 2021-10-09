@@ -1,0 +1,12 @@
+/home/tak/ownDev/Play/Play.Common/src/Play.Common/bin/Debug/net5.0/Play.Common.deps.json
+/home/tak/ownDev/Play/Play.Common/src/Play.Common/bin/Debug/net5.0/Play.Common.dll
+/home/tak/ownDev/Play/Play.Common/src/Play.Common/bin/Debug/net5.0/ref/Play.Common.dll
+/home/tak/ownDev/Play/Play.Common/src/Play.Common/bin/Debug/net5.0/Play.Common.pdb
+/home/tak/ownDev/Play/Play.Common/src/Play.Common/obj/Debug/net5.0/Play.Common.csproj.AssemblyReference.cache
+/home/tak/ownDev/Play/Play.Common/src/Play.Common/obj/Debug/net5.0/Play.Common.GeneratedMSBuildEditorConfig.editorconfig
+/home/tak/ownDev/Play/Play.Common/src/Play.Common/obj/Debug/net5.0/Play.Common.AssemblyInfoInputs.cache
+/home/tak/ownDev/Play/Play.Common/src/Play.Common/obj/Debug/net5.0/Play.Common.AssemblyInfo.cs
+/home/tak/ownDev/Play/Play.Common/src/Play.Common/obj/Debug/net5.0/Play.Common.csproj.CoreCompileInputs.cache
+/home/tak/ownDev/Play/Play.Common/src/Play.Common/obj/Debug/net5.0/Play.Common.dll
+/home/tak/ownDev/Play/Play.Common/src/Play.Common/obj/Debug/net5.0/ref/Play.Common.dll
+/home/tak/ownDev/Play/Play.Common/src/Play.Common/obj/Debug/net5.0/Play.Common.pdb
